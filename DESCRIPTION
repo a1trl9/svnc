@@ -1,0 +1,12 @@
+Package: mqxh
+Type: Package
+Title: Matomo Analysis R Toolkit
+Version: 0.0.2
+Author: a1trl9
+Maintainer: <zhiweiz@moqi.ai>
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  ggplot2
+RoxygenNote: 7.0.0
